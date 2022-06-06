@@ -5,7 +5,7 @@
     font-family: 'Poppins','sans-serif';
 }
 html[data-theme='dark']{
-    background: black;
+    background: #638ccc;
 }
 .wrapper{
     margin:100px auto;
@@ -38,7 +38,7 @@ nav .items .item{
     padding:1px 12px;
     font-size:18px;
     font-weight: 500;
-    color: #8d01ff;
+    color: #fff;
     border:2px solid #8d01ff;
     border-radius: 50px;
     cursor: pointer;
